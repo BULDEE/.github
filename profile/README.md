@@ -6,65 +6,65 @@
 
 <div align="center">
 
-# Formation IA en intra-entreprise & Studio IA
+# In-house AI Training & AI Studio
 
-**On forme les entreprises à l'IA, et on en construit en production.**
-**Deux métiers, un seul socle : la preuve mesurée.**
+**We train companies on AI, and we build it into production.**
+**Two crafts, one foundation: measured proof.**
 
 [![Site](https://img.shields.io/badge/🌐_Site-buldee.com-blue?style=for-the-badge)](https://www.buldee.com)
 [![Contact](https://img.shields.io/badge/📧_Contact-contact@buldee.com-green?style=for-the-badge)](mailto:contact@buldee.com)
 
-📍 Pertuis, France · Agence depuis 2010
+📍 Pertuis, France · Agency since 2010
 
 </div>
 
 ---
 
-## 🎯 Nos deux métiers
+## 🎯 What we do
 
-BULDEE conçoit des systèmes d'IA qui vont en production, et forme les équipes à s'en servir sans dépendre de nous.
+BULDEE builds AI systems that ship to production, and trains teams to run them without depending on us.
 
-### 📚 Formation IA en intra-entreprise
+### 📚 In-house AI training
 
-Trois formats, un socle commun : baseline mesurée en séance, cas d'usage traités de bout en bout, re-mesure du gain à J+15.
+Three formats, one shared foundation: baseline measured on-site, use cases handled end to end, gain re-measured at D+15.
 
-| Format | Durée | Tarif HT |
-|--------|-------|----------|
-| **Produit d'entrée** | 1 jour · 7 h | 2 000 € |
-| **Ateliers par équipe** | 3 jours · 21 h | 5 400 € |
-| **Déploiement + gouvernance IT** | 5 jours · 35 h | 8 500 € |
+| Format | Duration | Price (excl. tax) |
+|--------|----------|--------------------|
+| **Entry format** | 1 day · 7 h | €2,000 |
+| **Team workshops** | 3 days · 21 h | €5,400 |
+| **Rollout + IT governance** | 5 days · 35 h | €8,500 |
 
-### 🏗️ Studio IA au forfait
+### 🏗️ AI Studio, fixed scope
 
-Squad IA et produit cadrée par un architecte : périmètre, jalons et prix fixés au cadrage, jamais de régie.
-
----
-
-## 🤝 Ils nous font confiance
-
-| Client | Mission | Durée / effectif |
-|--------|---------|-------------------|
-| **Edenred** | CTO à la demande, gouvernance technique, migration d'architecture | 3 ans · 40 développeurs |
-| **France Télévisions** | Refonte d'architecture, forts pics de trafic | 2 ans · 15 développeurs |
-| **Axialys** | Drupal, contribution au cœur de Drupal Media, formation | 4 ans · 8 développeurs |
-
-Également accompagnés : GRDF, IAD, Le Figaro, Cours Florent.
+An AI squad and product scoped by an architect: scope, milestones and price fixed at kickoff, never staff-augmentation.
 
 ---
 
-## 🛠️ Produits que nous avons construits
+## 🤝 Who trusts us
 
-| Produit | Ce que c'est |
-|---------|---------------|
-| **[Metrikia](https://www.metrikia.io)** | SaaS d'attribution multi-touch (Meta, Google, TikTok, Pinterest ↔ Stripe et 11 CRM), 10 modèles dont Markov et Shapley, agent IA à 23 outils, RAG hybride pgvector, MCP OAuth |
-| **Qualia Hub** | Prise de rendez-vous automatisée par IA sur Instagram et WhatsApp, RAG sur mesure |
-| **TheLab.io** | E-learning et marketplace de coaching indépendant, Clean Architecture, Mercure/FrankenPHP |
-| **[AI Craftsman Superpowers](https://github.com/BULDEE/ai-craftsman-superpowers)** | Plugin Claude Code open source : bloque l'écriture qui casse l'architecture, DDD, Clean Architecture, TDD |
-| **SportHabits** | App Flutter offline-first, extraction du programme coach par IA |
+| Client | Mission | Duration / team size |
+|--------|---------|------------------------|
+| **Edenred** | Fractional CTO, technical governance, architecture migration | 3 years · 40 developers |
+| **France Télévisions** | Architecture rebuild, high traffic peaks | 2 years · 15 developers |
+| **Axialys** | Drupal, contributions to Drupal Media core, training | 4 years · 8 developers |
+
+Also worked with: GRDF, IAD, Le Figaro, Cours Florent.
 
 ---
 
-## ⚙️ Notre stack
+## 🛠️ Products we've built
+
+| Product | What it is |
+|---------|-------------|
+| **[Metrikia](https://www.metrikia.io)** | Multi-touch attribution SaaS (Meta, Google, TikTok, Pinterest ↔ Stripe and 11 CRMs), 10 models including Markov and Shapley, 23-tool AI agent, hybrid pgvector RAG, MCP OAuth |
+| **Qualia Hub** | AI-driven appointment scheduling on Instagram and WhatsApp, custom RAG |
+| **TheLab.io** | E-learning and marketplace for independent coaches, Clean Architecture, Mercure/FrankenPHP |
+| **[AI Craftsman Superpowers](https://github.com/BULDEE/ai-craftsman-superpowers)** | Open-source craftsman ecosystem for AI agents (Claude Code, Hermes Agent, ...): architecture quality gates, refactoring, legacy rescue, testing, security review, AI/ML system design (RAG, agents) |
+| **SportHabits** | Offline-first Flutter app, AI extraction of coaching programs |
+
+---
+
+## ⚙️ Our stack
 
 <div align="center">
 
@@ -81,12 +81,12 @@ Squad IA et produit cadrée par un architecte : périmètre, jalons et prix fix�
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**IA & agents**
+**AI & agents**
 ![Claude](https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Qualité & infra**
-![PHPStan](https://img.shields.io/badge/PHPStan_niveau_8-8892BF?style=for-the-badge&logo=php&logoColor=white)
+**Quality & infra**
+![PHPStan](https://img.shields.io/badge/PHPStan_level_8-8892BF?style=for-the-badge&logo=php&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
@@ -96,36 +96,36 @@ Squad IA et produit cadrée par un architecte : périmètre, jalons et prix fix�
 
 ---
 
-## 📂 Projets open source
+## 📂 Open source projects
 
 | Repository | Description |
 |------------|-------------|
-| [`ai-craftsman-superpowers`](https://github.com/BULDEE/ai-craftsman-superpowers) | Plugin Claude Code : architecture, DDD, Clean Architecture, TDD |
-| [`galaxia-ads`](https://github.com/BULDEE/galaxia-ads) | Plugin Claude Code pour l'analyse et l'opération publicitaire, adossé à Metrikia |
-| [`metrikia-hermes`](https://github.com/BULDEE/metrikia-hermes) | Skills Hermes Agent pour Metrikia : rapport ROAS, audit de campagne, alerte budget |
-| [`notebooklm-galaxia`](https://github.com/BULDEE/notebooklm-galaxia) | Plugin Claude Code : accès à NotebookLM depuis la stack Galaxia |
-| [`claude-system-doctor`](https://github.com/BULDEE/claude-system-doctor) | Audit et auto-réparation planifiés d'une installation Claude Code |
-| [`oh-my-privacy`](https://github.com/BULDEE/oh-my-privacy) | Bloque les secrets avant qu'ils atteignent le contexte d'un agent IA |
-| [`github-profile-optimizer`](https://github.com/BULDEE/github-profile-optimizer) | Plugin Claude Code pour générer des README de profil GitHub |
+| [`ai-craftsman-superpowers`](https://github.com/BULDEE/ai-craftsman-superpowers) | Craftsman ecosystem for AI agents (Claude Code, Hermes Agent, ...): quality gates, refactoring, legacy rescue, testing, security, AI/ML system design |
+| [`galaxia-ads`](https://github.com/BULDEE/galaxia-ads) | Claude Code plugin for ad analysis and operations, built on Metrikia |
+| [`metrikia-hermes`](https://github.com/BULDEE/metrikia-hermes) | Hermes Agent skills for Metrikia: weekly ROAS report, campaign audit, budget alert |
+| [`notebooklm-galaxia`](https://github.com/BULDEE/notebooklm-galaxia) | Claude Code plugin: NotebookLM access from the Galaxia stack |
+| [`claude-system-doctor`](https://github.com/BULDEE/claude-system-doctor) | Scheduled audit and self-heal for a Claude Code installation |
+| [`oh-my-privacy`](https://github.com/BULDEE/oh-my-privacy) | Blocks secrets before they reach an AI agent's context |
+| [`github-profile-optimizer`](https://github.com/BULDEE/github-profile-optimizer) | Claude Code plugin to generate GitHub profile READMEs |
 
-> 💡 **Nos projets clients et produits internes sont privés** - Metrikia, TheLab.io, SportHabits, Qualia Hub. Contactez-nous pour une démo.
+> 💡 **Our client projects and internal products are private** - Metrikia, TheLab.io, SportHabits, Qualia Hub. Contact us for a demo.
 
 ---
 
-## 👤 Qui sommes-nous
+## 👤 Who we are
 
-**Alexandre Mallet**, architecte logiciel et ingénieur IA, 15 ans d'expérience. BULDEE fondé en 2010, Core Contributor Drupal Media (2016-2019), 2 ans chez France Télévisions, 3 ans en direction technique chez Edenred.
+**Alexandre Mallet**, software architect and AI engineer, 15 years of experience. BULDEE founded in 2010, Drupal Media Core Contributor (2016-2019), 2 years at France Télévisions, 3 years as technical director at Edenred.
 
-BULDEE est enregistré organisme de formation sous le numéro **93840574684** (DREETS PACA). Cet enregistrement ne vaut pas agrément de l'État. Certification Qualiopi en cours.
+BULDEE is registered as a training provider under number **93840574684** (DREETS PACA). This registration does not constitute State approval. Qualiopi certification in progress.
 
 ---
 
 <div align="center">
 
-**Un processus métier à automatiser, une équipe à former sur l'IA ?**
+**A business process to automate, a team to train on AI?**
 
 📍 **Pertuis, France** · 🌐 **[buldee.com](https://www.buldee.com)** · 📧 **[contact@buldee.com](mailto:contact@buldee.com)**
 
-<sub>Excellence technique · Décisions éclairées · Résultats mesurables</sub>
+<sub>Technical excellence · Informed decisions · Measurable results</sub>
 
 </div>
