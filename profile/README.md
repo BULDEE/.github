@@ -1,126 +1,131 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BULDEE/.github/main/assets/banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BULDEE/.github/main/assets/banner-light.png">
-  <img alt="BULDEE - Cultivez votre potentiel, révélez votre expertise" src="https://raw.githubusercontent.com/BULDEE/.github/main/assets/banner-light.png">
+  <img alt="BULDEE" src="https://raw.githubusercontent.com/BULDEE/.github/main/assets/banner-light.png">
 </picture>
 
 <div align="center">
 
-# Agence IA & Automatisation
+# Formation IA en intra-entreprise & Studio IA
 
-**Transformez vos processus metier en machines autonomes**
+**On forme les entreprises à l'IA, et on en construit en production.**
+**Deux métiers, un seul socle : la preuve mesurée.**
 
 [![Site](https://img.shields.io/badge/🌐_Site-buldee.com-blue?style=for-the-badge)](https://www.buldee.com)
-[![Contact](https://img.shields.io/badge/📧_Contact-contact@buldee.io-green?style=for-the-badge)](mailto:contact@buldee.io)
-[![Audit Gratuit](https://img.shields.io/badge/🎯_Audit_IA-Gratuit_20min-orange?style=for-the-badge)](https://www.buldee.com)
+[![Contact](https://img.shields.io/badge/📧_Contact-contact@buldee.com-green?style=for-the-badge)](mailto:contact@buldee.com)
+
+📍 Pertuis, France · Agence depuis 2010
 
 </div>
 
 ---
 
-## 🚀 Ce que nous faisons
+## 🎯 Nos deux métiers
 
-Nous concevons des **systemes d'automatisation intelligents** qui travaillent 24/7 pour votre business :
+BULDEE conçoit des systèmes d'IA qui vont en production, et forme les équipes à s'en servir sans dépendre de nous.
 
-| Offre | Delai | Resultat |
-|-------|-------|----------|
-| **AI Prospecting Engine** | 14 jours | Pipeline de leads qualifies automatise |
-| **IA Strategy Sprint** | 5 jours | Roadmap IA 12 mois + business case ROI |
-| **IA Quick Win** | 10-15 jours | +10h/semaine recuperees |
-| **Formations IA** | 1-3 jours | Equipe autonome sur les outils IA |
+### 📚 Formation IA en intra-entreprise
 
-<details>
-<summary><strong>📊 Nos resultats clients</strong></summary>
+Trois formats, un socle commun : baseline mesurée en séance, cas d'usage traités de bout en bout, re-mesure du gain à J+15.
 
-- **Christine M. (SAFTI)** — 12 workflows, scoring automatique, +200 leads/mois qualifies
-- **JR Body (Coaching)** — Onboarding automatise, 4 workflows Slack/Notion/Drive
-- **+15 ans** d'experience en developpement logiciel & architecture
+| Format | Durée | Tarif HT |
+|--------|-------|----------|
+| **Produit d'entrée** | 1 jour · 7 h | 2 000 € |
+| **Ateliers par équipe** | 3 jours · 21 h | 5 400 € |
+| **Déploiement + gouvernance IT** | 5 jours · 35 h | 8 500 € |
 
-</details>
+### 🏗️ Studio IA au forfait
+
+Squad IA et produit cadrée par un architecte : périmètre, jalons et prix fixés au cadrage, jamais de régie.
 
 ---
 
-## 🛠️ Notre Stack Technique
+## 🤝 Ils nous font confiance
+
+| Client | Mission | Durée / effectif |
+|--------|---------|-------------------|
+| **Edenred** | CTO à la demande, gouvernance technique, migration d'architecture | 3 ans · 40 développeurs |
+| **France Télévisions** | Refonte d'architecture, forts pics de trafic | 2 ans · 15 développeurs |
+| **Axialys** | Drupal, contribution au cœur de Drupal Media, formation | 4 ans · 8 développeurs |
+
+Également accompagnés : GRDF, IAD, Le Figaro, Cours Florent.
+
+---
+
+## 🛠️ Produits que nous avons construits
+
+| Produit | Ce que c'est |
+|---------|---------------|
+| **[Metrikia](https://www.metrikia.io)** | SaaS d'attribution multi-touch (Meta, Google, TikTok, Pinterest ↔ Stripe et 11 CRM), 10 modèles dont Markov et Shapley, agent IA à 23 outils, RAG hybride pgvector, MCP OAuth |
+| **Qualia Hub** | Prise de rendez-vous automatisée par IA sur Instagram et WhatsApp, RAG sur mesure |
+| **TheLab.io** | E-learning et marketplace de coaching indépendant, Clean Architecture, Mercure/FrankenPHP |
+| **[AI Craftsman Superpowers](https://github.com/BULDEE/ai-craftsman-superpowers)** | Plugin Claude Code open source : bloque l'écriture qui casse l'architecture, DDD, Clean Architecture, TDD |
+| **SportHabits** | App Flutter offline-first, extraction du programme coach par IA |
+
+---
+
+## ⚙️ Notre stack
 
 <div align="center">
 
-### Orchestration & Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**Backend**
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8.5-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### CRM & Business Tools
-![Pipedrive](https://img.shields.io/badge/Pipedrive-1A1A1A?style=for-the-badge&logo=pipedrive&logoColor=green)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+**Frontend & mobile**
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### AI & Intelligence
+**IA & agents**
 ![Claude](https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Qualité & infra**
+![PHPStan](https://img.shields.io/badge/PHPStan_niveau_8-8892BF?style=for-the-badge&logo=php&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
-
-### Development
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 </div>
 
 ---
 
-## 📂 Projets Open Source
+## 📂 Projets open source
 
 | Repository | Description |
 |------------|-------------|
-| [`automatia-skeleton`](https://github.com/BULDEE/automatia-skeleton) | 🏗️ Template pour demarrer un projet d'automatisation n8n |
+| [`ai-craftsman-superpowers`](https://github.com/BULDEE/ai-craftsman-superpowers) | Plugin Claude Code : architecture, DDD, Clean Architecture, TDD |
+| [`galaxia-ads`](https://github.com/BULDEE/galaxia-ads) | Plugin Claude Code pour l'analyse et l'opération publicitaire, adossé à Metrikia |
+| [`metrikia-hermes`](https://github.com/BULDEE/metrikia-hermes) | Skills Hermes Agent pour Metrikia : rapport ROAS, audit de campagne, alerte budget |
+| [`notebooklm-galaxia`](https://github.com/BULDEE/notebooklm-galaxia) | Plugin Claude Code : accès à NotebookLM depuis la stack Galaxia |
+| [`claude-system-doctor`](https://github.com/BULDEE/claude-system-doctor) | Audit et auto-réparation planifiés d'une installation Claude Code |
+| [`oh-my-privacy`](https://github.com/BULDEE/oh-my-privacy) | Bloque les secrets avant qu'ils atteignent le contexte d'un agent IA |
+| [`github-profile-optimizer`](https://github.com/BULDEE/github-profile-optimizer) | Plugin Claude Code pour générer des README de profil GitHub |
 
-> 💡 **Nos projets clients sont prives** — Contactez-nous pour une demo personnalisee
-
----
-
-## 📈 Nos Engagements
-
-<div align="center">
-
-| Metrique | Engagement |
-|:--------:|:----------:|
-| ⚡ **TTFB** | < 100ms |
-| 🎯 **SLO** | 99.9% disponibilite |
-| 💬 **Support** | Reponse < 24h |
-| 🔒 **Securite** | Zero credentials exposes |
-
-</div>
+> 💡 **Nos projets clients et produits internes sont privés** - Metrikia, TheLab.io, SportHabits, Qualia Hub. Contactez-nous pour une démo.
 
 ---
 
-## 🤝 Travaillons ensemble
+## 👤 Qui sommes-nous
 
-<div align="center">
+**Alexandre Mallet**, architecte logiciel et ingénieur IA, 15 ans d'expérience. BULDEE fondé en 2010, Core Contributor Drupal Media (2016-2019), 2 ans chez France Télévisions, 3 ans en direction technique chez Edenred.
 
-**Vous avez un processus metier a automatiser ?**
-
-[![Obtenir mon audit IA gratuit](https://img.shields.io/badge/🎯_Obtenir_mon_audit_IA_gratuit_(20_min)-FF6B35?style=for-the-badge)](https://www.buldee.com)
-
----
-
-📍 **France** · 🌐 **[buldee.com](https://www.buldee.com)** · 📧 **[contact@buldee.io](mailto:contact@buldee.io)**
-
-</div>
+BULDEE est enregistré organisme de formation sous le numéro **93840574684** (DREETS PACA). Cet enregistrement ne vaut pas agrément de l'État. Certification Qualiopi en cours.
 
 ---
 
 <div align="center">
-<sub>
 
-**BULDEE** — Cultivez votre potentiel, revelez votre expertise
+**Un processus métier à automatiser, une équipe à former sur l'IA ?**
 
-*Excellence technique • Decisions eclairees • Resultats mesurables*
+📍 **Pertuis, France** · 🌐 **[buldee.com](https://www.buldee.com)** · 📧 **[contact@buldee.com](mailto:contact@buldee.com)**
 
-</sub>
+<sub>Excellence technique · Décisions éclairées · Résultats mesurables</sub>
+
 </div>
