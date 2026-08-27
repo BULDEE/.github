@@ -56,34 +56,40 @@ Also worked with: GRDF, IAD, Le Figaro, Cours Florent.
 
 | Product | What it is |
 |---------|-------------|
-| **[Metrikia](https://www.metrikia.io)** | Multi-touch attribution SaaS (Meta, Google, TikTok, Pinterest ↔ Stripe and 11 CRMs), 10 models including Markov and Shapley, 23-tool AI agent, hybrid pgvector RAG, MCP OAuth |
-| **Qualia Hub** | AI-driven appointment scheduling on Instagram and WhatsApp, custom RAG |
-| **TheLab.io** | E-learning and marketplace for independent coaches, Clean Architecture, Mercure/FrankenPHP |
-| **[AI Craftsman Superpowers](https://github.com/BULDEE/ai-craftsman-superpowers)** | Open-source craftsman ecosystem for AI agents (Claude Code, Hermes Agent, ...): architecture quality gates, refactoring, legacy rescue, testing, security review, AI/ML system design (RAG, agents) |
-| **SportHabits** | Offline-first Flutter app, AI extraction of coaching programs |
+| **[Metrikia](https://buldee.com/projets/metrikia/)** | Multi-touch attribution SaaS (Meta, Google, TikTok, Pinterest ↔ Stripe and 11 CRMs), 10 models including Markov and Shapley, 23-tool AI agent, hybrid pgvector RAG, MCP OAuth |
+| **[Qualia Hub](https://buldee.com/projets/qualia-hub/)** | AI-driven appointment scheduling on Instagram and WhatsApp, custom RAG |
+| **[TheLab.io](https://buldee.com/projets/thelab-io/)** | E-learning and marketplace for independent coaches, Clean Architecture, Mercure/FrankenPHP |
+| **[AI Craftsman Superpowers](https://buldee.com/projets/ai-craftsman/)** | Open-source craftsman ecosystem for AI agents (Claude Code, Hermes Agent, ...): architecture quality gates, refactoring, legacy rescue, testing, security review, AI/ML system design (RAG, agents) |
+| **[SportHabits](https://buldee.com/projets/sporthabits/)** | Offline-first Flutter app, AI extraction of coaching programs |
 
 ---
 
 ## ⚙️ Our stack
 
+We're an AI Studio first: every product ships an agent, a RAG pipeline, or both, in production, not a proof of concept.
+
 <div align="center">
 
-**Backend**
+**AI & ML** · what we actually build
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector_hybrid_RAG-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_OAuth-6A3DF0?style=for-the-badge)
+
+Multi-tool agents, tool calling, reranking, evals: in production, not a demo.
+
+**Product engineering**
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP_8.5-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-**Frontend & mobile**
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**AI & agents**
-![Claude](https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Quality & infra**
 ![PHPStan](https://img.shields.io/badge/PHPStan_level_8-8892BF?style=for-the-badge&logo=php&logoColor=white)
